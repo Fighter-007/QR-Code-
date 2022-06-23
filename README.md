@@ -1,4 +1,4 @@
 # QR-Code-
 Practising Frontend Development by executing a dummy project at Frontend Mentor
 
-Link to project: https://fighter-007.github.io/QR-Code-/
+Have tried to create an exact copy of a given layout
